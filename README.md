@@ -10,6 +10,7 @@ cd && git clone --recurse-submodules git@github.com:ranta/dotfiles.git && dotfil
 - [Alfred](https://www.alfredapp.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [Chrome](https://www.google.com/chrome/)
+- [discrete-scroll](https://github.com/emreyolcu/discrete-scroll)
 - [iTerm](https://iterm2.com/downloads.html)
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) / PyCharm
 - [Karabiner](https://karabiner-elements.pqrs.org/)
@@ -18,6 +19,7 @@ cd && git clone --recurse-submodules git@github.com:ranta/dotfiles.git && dotfil
 - [Poetry](https://github.com/python-poetry/poetry#installation)
 - [Postgres](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 - [Rectangle](https://rectangleapp.com/)
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 - [Slack](https://slack.com/intl/en-fi/downloads/mac)
 - [Sourcetree](https://www.sourcetreeapp.com/download-archives)
 - [Spotify](https://www.spotify.com/download/mac/)
