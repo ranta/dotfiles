@@ -1,0 +1,13 @@
+[user]
+	name = Eemeli Ranta
+	email = eemeli.ranta@shuup.com
+[core]
+	excludesfile = /Users/eemeliranta/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[commit]
+	template = /Users/eemeliranta/.stCommitMsg
